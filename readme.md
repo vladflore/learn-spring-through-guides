@@ -1,4 +1,7 @@
 https://spring.io/guides#topical-guides
-69 guides
-3 topical guides
-5 tutorials
+
+The progress so far:
+
+0 / 69 guides
+0 / 3 topical guides
+1 / 5 tutorials
