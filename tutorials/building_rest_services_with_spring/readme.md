@@ -11,6 +11,10 @@ https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
 https://stateless.group/hal_specification.html
 https://datatracker.ietf.org/doc/html/draft-kelly-json-hal-08
 https://martinfowler.com/bliki/DDD_Aggregate.html
+https://www.infoq.com/news/2018/03/microservices-anti-patterns/
+https://www.infoq.com/news/2013/12/api-versioning/
 
 https://www.youtube.com/watch?v=p8AdyMlpmPk
 https://www.youtube.com/watch?v=WDBUlu_lYas
+
+
