@@ -1,4 +1,4 @@
-https://spring.io/guides#topical-guides
+https://spring.io/guides
 
 The progress so far:
 
