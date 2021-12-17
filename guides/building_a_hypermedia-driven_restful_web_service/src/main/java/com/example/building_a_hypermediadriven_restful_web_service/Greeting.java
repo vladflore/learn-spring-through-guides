@@ -1,9 +1,8 @@
-package com.example.resthateoas;
-
-import org.springframework.hateoas.RepresentationModel;
+package com.example.building_a_hypermediadriven_restful_web_service;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import org.springframework.hateoas.RepresentationModel;
 
 public class Greeting extends RepresentationModel<Greeting> {
 
